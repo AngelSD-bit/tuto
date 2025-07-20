@@ -1,0 +1,6 @@
+Lorem Ipsum es simplemente el texto de relleno 
+de las imprentas y archivos de texto. 
+Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el siglo XVI,
+cuando un impresor (anónimo) usó una galera de tipos y los mezcló para crear un libro de 
+Ha sobrevivido no solo cinco siglos, sino también  los transición a  los composición tipográfica 
+electrónica, manteniéndose prácticam  
